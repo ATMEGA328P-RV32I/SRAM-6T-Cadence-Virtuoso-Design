@@ -8,7 +8,7 @@ This repository contains the design and transient simulation of a standard 6-Tra
 * **Operating Voltage (VDD):** 1.1V
 
 ## Transistor Sizing
-The cell is designed with specific Width/Length (W/L) ratios to ensure stable read and write margins.
+
 * **Pull-Down (NMOS):** W = 120nm, L = 45nm
 * **Pull-Up (PMOS):** W = 120nm, L = 45nm
 * **Access (NMOS):** W = 120nm, L = 45nm
