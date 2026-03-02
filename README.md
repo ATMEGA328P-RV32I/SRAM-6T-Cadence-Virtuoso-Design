@@ -1,7 +1,7 @@
 # 6T SRAM Cell Design and Simulation
 
 ## Overview
-This repository contains the design, schematic entry, and transient simulation of a standard 6-Transistor (6T) Static Random Access Memory (SRAM) cell. The design was implemented and verified using Cadence Virtuoso and the Spectre simulation environment.
+This repository contains the design and transient simulation of a standard 6-Transistor (6T) Static Random Access Memory (SRAM) cell. The design was implemented and verified using Cadence Virtuoso and the Spectre simulation environment.
 
 ## Technology Node
 * **Process:** Generic Process Design Kit (GPDK) 45nm
